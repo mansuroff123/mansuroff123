@@ -6,7 +6,7 @@
 - 📚 Technologies I work with: **Python/Django, HTML, CSS, JavaScript, Bootstrap, SQL/MySQL, Linux**.
 - 🌱 Currently focused on deepening my skills and learning new technologies.
 - 🤝 Always open to meaningful collaboration and teamwork!
-- 📫 Reach out to me on Telegram: [mansuroff123](https://t.me/hojiakbar_dev)
+- 📫 Reach out to me on Telegram: [Hojiakbar](https://t.me/khojiakbar_dev)
 
 ---
 
