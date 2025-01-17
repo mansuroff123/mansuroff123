@@ -1,16 +1,40 @@
 ## Hi there 👋
+# I'm @mansuroff123!
 
-<!--
-**mansuroff123/mansuroff123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 I'm a **Web Developer**.
+- 🌍 Based in Tashkent, I’m a student at **Turin Polytechnic University in Tashkent**, majoring in **Software Engineering**.
+- 📚 Technologies I work with: **Python/Django, HTML, CSS, JavaScript, Bootstrap, SQL/MySQL, Linux**.
+- 🌱 Currently focused on deepening my skills and learning new technologies.
+- 🤝 Always open to meaningful collaboration and teamwork!
+- 📫 Reach out to me on Telegram: [mansuroff123](https://t.me/hojiakbar_dev)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+- 🖥️ **Profile Views**: ![Profile views](https://komarev.com/ghpvc/?username=mansuroff123&color=blue)
+- 📂 **Repositories**: I have a total of [98 repositories](https://github.com/mansuroff123?tab=repositories).
+- ⭐ **Stars Received**: Total stars from users: **3**.
+
+---
+
+## 🔥 My Goals
+- 🌟 To build professional projects using Django.
+- 🌍 To contribute to large-scale projects and collaborate with diverse teams.
+- 📖 To learn new technologies and share knowledge with others.
+
+---
+
+## 🏆 Achievements
+- 🎓 A proud student at Turin Polytechnic University.
+- 💻 Created several real-world projects using Django and other technologies.
+
+---
+
+## 🎯 Fun Facts
+- 🎮 In my free time, I enjoy reading tech blogs and experimenting with new tools.
+- 🧩 Solving coding challenges and debugging complex issues excites me.
+
+---
+
+🎉 Feel free to connect if you'd like to collaborate!
+
