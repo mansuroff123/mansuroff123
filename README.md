@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 - 🖥️ **Profile Views**: ![Profile views](https://komarev.com/ghpvc/?username=mansuroff123&color=blue)
-- 📂 **Repositories**: I have a total of public repos: [!GitHub repos count](https://api.github.com/users/mansuroff123)
+- 📂 **Repositories**: I have a total of public repos: [GitHub repos count](https://api.github.com/users/mansuroff123)
 
 - ⭐ **Stars Received**: Total stars from users: **3**.
 
