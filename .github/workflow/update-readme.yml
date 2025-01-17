@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Har kuni avtomatik ishlaydi (yarim tunda)
+  workflow_dispatch: # Qo'lda ishga tushirish uchun
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Get Repo Count
+        id: repo-count
+        run: echo "repos=$(curl -s https://api.github.com/users/mansuroff123 | jq '.public_repos')" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/📂 Repositories: .*$/📂 Repositories: ${{ env.repos }}/" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<mansuroff145@gmail.com>"
+          git add README.md
+          git commit -m "Updated repo count"
+          git push
