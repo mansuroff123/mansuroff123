@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 - 🖥️ **Profile Views**: ![Profile views](https://komarev.com/ghpvc/?username=mansuroff123&color=blue)
 - 📂 **Repositories**: I have a total of public ![GitHub repos count](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mansuroff123&query=$.public_repos&label=Repos&color=blue&style=flat-square)
-- ![Khojiakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansuroff123&show_icons=true&theme=radical)
+![Khojiakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansuroff123&show_icons=true&theme=dark)
 
 🎉 Feel free to connect if you'd like to collaborate!
 
