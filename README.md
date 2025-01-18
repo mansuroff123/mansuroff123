@@ -15,26 +15,6 @@
 - 📂 **Repositories**: I have a total of public ![GitHub repos count](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mansuroff123&query=$.public_repos&label=Repos&color=blue&style=flat-square)
 - ⭐ **Stars Received**: Total stars from users: **3**.
 
----
-
-## 🔥 My Goals
-- 🌟 To build professional projects using Django.
-- 🌍 To contribute to large-scale projects and collaborate with diverse teams.
-- 📖 To learn new technologies and share knowledge with others.
-
----
-
-## 🏆 Achievements
-- 🎓 A proud student at Turin Polytechnic University.
-- 💻 Created several real-world projects using Django and other technologies.
-
----
-
-## 🎯 Fun Facts
-- 🎮 In my free time, I enjoy reading tech blogs and experimenting with new tools.
-- 🧩 Solving coding challenges and debugging complex issues excites me.
-
----
 
 🎉 Feel free to connect if you'd like to collaborate!
 
