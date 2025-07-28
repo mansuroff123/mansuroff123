@@ -3,7 +3,7 @@
 
 - 🧑‍💻 I'm a **Web Developer**.
 - 🌍 Based in Tashkent, I’m a student at **Turin Polytechnic University in Tashkent**, majoring in **Software Engineering**.
-- 📚 Technologies I work with: **Python/Django, HTML, CSS, JavaScript, Bootstrap, SQL/MySQL, Linux**.
+- 📚 Technologies I work with: **Python/Django, HTML, CSS, JavaScript, Bootstrap, React, SQL/MySQL, Linux**.
 - 🌱 Currently focused on deepening my skills and learning new technologies.
 - 🤝 Always open to meaningful collaboration and teamwork!
 - 📫 Reach out to me on Telegram: [@Khojiakbar_dev](https://t.me/khojiakbar_dev)
