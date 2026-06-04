@@ -42,14 +42,6 @@ I am a Software Engineering student and Full-Stack Developer deeply passionate a
 
 ---
 
-### 📊 GitHub Analytics & Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mansuroff123&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mansuroff123&color=blueviolet&style=flat-square&v=1" alt="Profile Views" />
 </div>
